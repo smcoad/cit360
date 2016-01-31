@@ -1,6 +1,6 @@
 <?php include '../view/header.php'; ?>
 <main>
-    <h2>Add Your Cat</h2>
+    <h2>Add Your Cat.</h2>
     <form action="index.php" method="post" id="cat_add_form">
         <input type="hidden" name="action" value="add_cat" >
         <label>Cats Name:</label><br>
